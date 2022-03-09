@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExoPlayer</string>
+    <string name="media_url_mp4_1">"https://hajifirouz4.cdn.asset.aparat.com/aparat-video/7d648137c3012e770c0fe274eeb3b7d843124457-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImEwNDU1Mzk3YWIzMzY4MDY0YmMxZGMxMjFkYjA5Nzc1IiwiZXhwIjoxNjQ2ODIzMzkxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.KUD_IHvgePmD6-d5TEvtFT5AobXXnSg5aAJgVGgYoC0"</string>
+    <string name="media_url_mp4_2">"https://hajifirouz1.cdn.asset.aparat.com/aparat-video/c090e3ec8a6518e4050e6b2f2c2e9f6643188910-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlY2ZmNTc4YjJkNmJiYzg3NWVkMzI5YTBiZjhiMWZhIiwiZXhwIjoxNjQ2ODIyMTEzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.WqTAW15-kZsv3EhW4RFAl2cATyB5jllcNgzK6RhfoZM"</string>
+</resources>
